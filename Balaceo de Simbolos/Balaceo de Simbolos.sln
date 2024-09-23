@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balaceo de Simbolos", "Balaceo de Simbolos.csproj", "{5596E9CB-848D-4972-8FCC-32DC4C86327C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5596E9CB-848D-4972-8FCC-32DC4C86327C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5596E9CB-848D-4972-8FCC-32DC4C86327C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5596E9CB-848D-4972-8FCC-32DC4C86327C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5596E9CB-848D-4972-8FCC-32DC4C86327C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C84C334C-6A4A-4241-8FCC-A6645B57EB4D}
+	EndGlobalSection
+EndGlobal
