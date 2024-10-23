@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colas-ListasEnlazadas", "Colas-ListasEnlazadas.csproj", "{16A30525-FC74-4D92-9471-E1DFB86B0F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A30525-FC74-4D92-9471-E1DFB86B0F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A30525-FC74-4D92-9471-E1DFB86B0F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A30525-FC74-4D92-9471-E1DFB86B0F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A30525-FC74-4D92-9471-E1DFB86B0F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75A23E9-CF44-4066-AA84-9BBCE8C85891}
+	EndGlobalSection
+EndGlobal

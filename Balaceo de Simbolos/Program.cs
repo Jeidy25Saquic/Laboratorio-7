@@ -43,7 +43,7 @@
             {
                 abierto.Push(simbolo);
             }
-            else
+            else if((simbolo == ')' || simbolo== '}' || simbolo == '}'))
             {
                 if (abierto.Count == 0)
                 {
@@ -51,14 +51,7 @@
                 }
 
                 char ultimo = abierto.Pop();
-                /*f (Pares(ultimo, simbolo)== true)
-                 {
-                     return true;
-                 }
-                 else
-                 {
-                     return false;
-                 }*/
+               
 
                 if(Pares(ultimo, simbolo) != true)
                 {
@@ -79,4 +72,5 @@
                (abierta == '[' && cierre == ']') ||
                (abierta == '{' && cierre == '}');
     }
+
 }
